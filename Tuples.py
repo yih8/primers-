@@ -8,3 +8,4 @@ f=my_tuple[:1]
 g=my_tuple[:-1]
 
 print(a,"   ",b,"   ",c,"   ",d,"   ",e,"   ",f,"   ",g)
+
