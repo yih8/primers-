@@ -1,0 +1,11 @@
+my_list=[1,"banana","anana",[]]
+my_list.remove("anana")
+print(my_list)
+my_list.pop(1)
+print(my_list)
+my_list.append("information technology")
+print(my_list)
+my_list.insert(1,"electrical engineering")
+print(my_list)
+my_list.reverse()
+print(my_list)
